@@ -1,0 +1,10 @@
+x = float(input("Ingresa el valor para x: "))
+
+operacion_1 = (1 / x)
+operacion_2 = (operacion_1 + x)
+operacion_3 =  (1 / operacion_2)
+operacion_4 = (operacion_3 + 1)
+operacion_5 = (1 /operacion_4)
+operacion_6 = (operacion_5 + 1)
+y = (1 / operacion_6)
+print("y =", y)
